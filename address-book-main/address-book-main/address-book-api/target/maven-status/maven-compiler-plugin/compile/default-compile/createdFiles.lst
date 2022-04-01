@@ -1,0 +1,13 @@
+com\address\book\addressbookapi\controller\AddressBookController.class
+com\address\book\addressbookapi\dto\ContactDTO.class
+com\address\book\addressbookapi\mapper\DtoAndEntityMapper.class
+com\address\book\addressbookapi\repo\MobileRepository.class
+com\address\book\addressbookapi\AddressBookApiApplication.class
+com\address\book\addressbookapi\entity\MobileEntity.class
+com\address\book\addressbookapi\repo\ContactRepository.class
+com\address\book\addressbookapi\config\SwaggerConfig.class
+com\address\book\addressbookapi\mapper\DtoAndEntityMapperImpl.class
+com\address\book\addressbookapi\externalservice\ExternalAddressBookService.class
+com\address\book\addressbookapi\service\AddressBookService.class
+com\address\book\addressbookapi\entity\ContactEntity.class
+com\address\book\addressbookapi\dto\MobileDTO.class
